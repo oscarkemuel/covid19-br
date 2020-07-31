@@ -3,8 +3,8 @@
 <p align="center">Aplicação <strong>COVID19-BR</strong> desenvolvida para facilitar o trabalho na hora de pesquisar números atuais da pandemia do novo coronavírus no Brasil.</p>
 
 <p align="center">
-<img width="70%" src="https://github.com/oscarel/github-repos/blob/master/src/images/main.png?raw=true" alt="List repositories"/>
-<img width="70%" src="https://github.com/oscarel/github-repos/blob/master/src/images/inforepo.png?raw=true" alt="Info repositories"/>
+<img width="70%" src="https://github.com/oscarel/covid19-br/blob/master/images/COVID19BR_1.png?raw=true" alt="COVID19 BR"/>
+<img width="70%" src="https://github.com/oscarel/covid19-br/blob/master/images/COVID19BR_2.png?raw=true" alt="COVID19 BR"/>
 </p>
 
 ## :zap: Instalação e execução
