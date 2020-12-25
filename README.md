@@ -1,5 +1,5 @@
 <h1 align="center">COVID19-BR</h1>
-<p align="center">Você pode testar em: <a href="https://oscarel.github.io/covid19-br/" target="_blank">oscarel.github.io/covid19-br/</a></p>
+<p align="center">Você pode testar em: <a href="https://oscarel.github.io/covid19-br/" target="_blank">oscarkemuel.github.io/covid19-br/</a></p>
 <p align="center">Aplicação <strong>COVID19-BR</strong> desenvolvida para facilitar o trabalho na hora de pesquisar números atuais da pandemia do novo coronavírus no Brasil.</p>
 
 <p align="center">
